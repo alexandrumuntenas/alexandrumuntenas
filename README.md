@@ -1,8 +1,11 @@
-### Hi there 👋
-Hi, I'm Alexandru, an amateur programmer. I'm learning to program in Javascript and NodeJS and to combine these with databases like MariaDB and MySQL, APIs like Google Books, etc.
+<h1 align="center">Hola, soy Alexandru 👋</h1>
+<h3 align="center">Estudiante de la ESO, músico y programador aficionado.</h3>
 
-I am an ESO student and I am learning to program independently. So if you ever check any repository of mine and see some nonsense, I ask you to please leave a comment explaining *Why* it's wrong and *How* it can be done better.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrumuntenas" alt="alexandrumuntenas" /></a> </p>
 
-Thank you very much and I hope you have a nice day.
-
-[![wakatime](https://wakatime.com/badge/user/4bab8b13-9948-45df-879c-73630fbbe256.svg)](https://wakatime.com/@4bab8b13-9948-45df-879c-73630fbbe256)
+<h3 align="center">¡Conecta conmigo en redes!</h3>
+<p align="center">
+<a href="https://twitter.com/alexmuntenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexmuntenas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17821331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17821331" height="30" width="40" /></a>
+<a href="https://instagram.com/alexmuntenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexmuntenas" height="30" width="40" /></a>
+</p>
