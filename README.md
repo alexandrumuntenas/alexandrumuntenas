@@ -10,4 +10,9 @@ Para expandir mi conocimiento, estoy interesado en trabajar con frameworks como 
 
 Este soy yo... A continuación, podrás ver algunas de mis estadísticas. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrumuntenas&show_icons=true&locale=en" alt="alexandrumuntenas" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrumuntenas&" alt="alexandrumuntenas" align="center"/>
+<div><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=alexandrumuntenas&show_icons=true&locale=en" alt="alexandrumuntenas" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrumuntenas&" alt="alexandrumuntenas" width="50%" height="auto"/></div>
+
+<br>
+<p align="center">
+<a href="https://alexandrumuntenas.dev" target="blank">Ver en la web</a>
+</p>
