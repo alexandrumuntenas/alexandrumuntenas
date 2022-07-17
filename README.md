@@ -11,7 +11,7 @@ Para expandir mi conocimiento, estoy interesado en trabajar con frameworks como 
 Este soy yo. Un ser más en este mundo hiperconectado.
 
 > **Sólo sé que no sé nada**
-> *Sócrates*
+> - *Sócrates*
 
 
 <div><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=amun06&show_icons=true&locale=en" alt="amun06" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=amun06&" alt="amun06" width="50%" height="auto"/></div>
